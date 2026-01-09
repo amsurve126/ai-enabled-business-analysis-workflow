@@ -1,0 +1,5 @@
+The business wants to launch a mobile application for existing insurance customers.
+Customers should be able to view their policy details and download policy documents.
+The application must be secure and comply with regulatory standards.
+The business wants to reduce customer service calls by enabling self-service features.
+Notification mechanisms are not yet decided.

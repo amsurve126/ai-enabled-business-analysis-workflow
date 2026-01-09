@@ -1,0 +1,11 @@
+You are a Business Analyst.
+
+Classify each requirement in the stakeholder notes into one of the following:
+- Business Requirement
+- Functional Requirement
+- Non-Functional Requirement
+
+Provide output as a list with the requirement and its classification.
+
+Stakeholder Notes:
+{{TEXT}}
