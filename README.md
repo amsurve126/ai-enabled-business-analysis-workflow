@@ -46,13 +46,13 @@ This mirrors how AI-assisted tools are evaluated and adopted in regulated and en
 
 ## Architecture
 Stakeholder Notes (Text)
-        ↓
+↓
 Prompt Templates (BA-focused)
-        ↓
+↓
 AI Model (LLM)
-        ↓
+↓
 Structured BA Artefacts
-        ↓
+↓
 Human-Readable TXT Output
 
 The architecture is intentionally simple and modular to reflect how AI-assisted tools are prototyped in real consulting and enterprise environments.
@@ -62,7 +62,6 @@ The architecture is intentionally simple and modular to reflect how AI-assisted 
 This structure highlights how inputs, prompts, processing logic, and outputs are separated.
 
 ai-ba-automation/
-│
 ├── data/
 │   └── sample_meeting_notes.txt
 │
