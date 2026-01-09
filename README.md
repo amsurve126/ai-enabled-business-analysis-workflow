@@ -135,6 +135,14 @@ In practice, outputs would be iteratively refined based on stakeholder feedback 
 - UI-based input instead of text files
 - Extension to process flows and data requirements
 
+## How to Run
+1. Clone or download the repository
+2. Set the OpenAI API key as an environment variable
+3. Update `data/sample_meeting_notes.txt` with stakeholder inputs
+4. Run the script:
+   ```bash
+   python src/ba_automation.py
+
 
 ## Author
 **Amar D. Surve**  
