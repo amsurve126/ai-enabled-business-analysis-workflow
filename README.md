@@ -1,4 +1,4 @@
-# Requirements Structuring & Documentation Automation (Business Analysis)
+# Requirements Structuring & Documentation Automation
 
 ## Overview
 Business Analysts often spend significant time converting unstructured stakeholder inputs—such as meeting notes, emails, and discussion summaries—into structured requirements documentation. This manual process can be time-consuming, inconsistent, and prone to missed details.
